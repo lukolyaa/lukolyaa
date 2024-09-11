@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @lukolyaa
 - 👀 I’m interested in software testing
-- 🌱 I’m currently learning C#
 - 📫 How to reach me tg: @lukolya
